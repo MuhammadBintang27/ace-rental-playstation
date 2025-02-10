@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "79315975071",
+    "project_id": "ace-rental-playstation",
+    "storage_bucket": "ace-rental-playstation.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79315975071:android:a3d57d23607ea50ee2dbaa",
+        "android_client_info": {
+          "package_name": "com.example.ace_rental"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJwOHhJmY8NN05IRyBEkcxsmN4fpqMknY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
