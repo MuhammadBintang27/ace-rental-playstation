@@ -45,3 +45,6 @@ app.*.map.json
 /android/app/release
 
 .vscode/templates
+
+# api
+lib/firebase_options.dart
